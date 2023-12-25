@@ -1,78 +1,29 @@
-# dalelarroder.com ⚡️
+## Hi there 👋
 
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Deployment**: [Vercel](https://vercel.com)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Analytics**: [Logrocket](https://logrocket.com/)
-- **Content**: [MDX](https://mdxjs.com/) with [Contentlayer](https://www.contentlayer.dev/)
+### I'm Ana
+- 📍 I am a PhD candidate in the Machine Learning group, at SCCS TUM, see my [page](https://www.cs.cit.tum.de/en/sccs/personen/ana-cukarska/)
+- 🔭 I’m currently working on system identification with machine learning
+- 🌱 I’m currently learning about the Koopman operator
+   - some recommendations to start learning:
+      - [Applied Koopmanism](https://arxiv.org/abs/1206.3164)
+      - [On the Koopman operator of algorithms](https://arxiv.org/abs/1907.10807)
+      - [Koopman's original paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1076052/)
+- 🗨️ I’m interested in scientific machine learning topics in general
+- 📫 How to reach me: ana.cukarska@tum.de
+- 😄 Pronouns: she/her
+- ⚡ Fun question to think about: How would you sort a list of Chinese words? 
 
-## Running Locally
+<!--
+**AnaCukarska/AnaCukarska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Installation
+Here are some ideas to get you started:
 
-1. Clone this repo
-
-```bash
-git clone git@github.com:dlarroder/dalelarroder.git
-```
-
-2. Change directory
-
-```sh
-cd dalelarroder
-```
-
-3. Install yarn packages
-
-```bash
-yarn
-```
-
-1. Create a `.env.local` file following the `.env.example`
-
-```bash
-cp .env.example .env.local
-```
-
-5. Add your environment variables to `.env.local`
-
-```txt
-SPOTIFY_REFRESH_TOKEN=<Your env>
-SPOTIFY_CLIENT_SECRET=<Your env>
-SPOTIFY_CLIENT_ID=<Your env>
-// ...
-```
-
-6. Run the development server
-
-```bash
-yarn dev
-```
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Commit your Changes (`git commit -m 'Add some Feature'`)
-3. Push to the Branch (`git push origin main`)
-4. Open a Pull Request
-
-## Lighthouse Score
-
-![Screen Shot 2022-07-04 at 10 52 02 AM](https://user-images.githubusercontent.com/52998821/177234494-f6bc0203-ba71-4f59-8eb7-6375e3784b31.png)
-
-## Previous Version
-
-This is the second version of my website.
-
-Prevoius v1 version:
-
-- https://v1.dalelarroder.com/
-
-## Licence
-
-[MIT](https://github.com/dlarroder/dalelarroder/blob/master/LICENSE) © [Dale Larroder](https://www.dalelarroder.com)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
