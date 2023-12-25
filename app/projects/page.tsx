@@ -2,8 +2,8 @@ import Projects from '@/components/Projects/Projects';
 import MainLayout from '@/layouts/MainLayout';
 
 export const metadata = {
-  title: 'Projects - Dale Larroder',
-  description: 'My Projects - Dale Larroder',
+  title: 'Projects - Ana Cukarska',
+  description: 'My Projects - Ana Cukarska',
 };
 
 export default function Page() {
@@ -14,7 +14,7 @@ export default function Page() {
           Projects
         </h1>
         <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          Here are some of my selected projects worth sharing.
+          🚧 page under construction 🚧
         </p>
       </div>
       <Projects />

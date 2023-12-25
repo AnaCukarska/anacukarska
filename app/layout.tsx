@@ -10,8 +10,8 @@ import LenisProvider from '@/components/Providers/LenisProvider';
 import ThemeProvider from '@/components/Providers/ThemeProvider';
 
 export const metadata = {
-  title: 'Dale Larroder',
-  description: 'I build things for the web.',
+  title: 'Ana Cukarska',
+  description: 'I work on scientific machine learning.',
 };
 
 interface RootLayoutProps {

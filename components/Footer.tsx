@@ -2,7 +2,7 @@ import siteMetadata from 'content/siteMetadata';
 import Link from 'next/link';
 import { Suspense } from 'react';
 import { AiFillLinkedin } from 'react-icons/ai';
-import { FaGithub, FaSpotify, FaSteam, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaSpotify } from 'react-icons/fa';
 import SectionContainer from './SectionContainer';
 import NowPlaying from './Spotify/NowPlaying';
 
@@ -40,27 +40,12 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={siteMetadata.twitter}
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="twitter"
-                >
-                  <FaTwitter className="sm:text-lg" />
-                </a>
-              </li>
-              <li>
-                <a
                   href={siteMetadata.spotify}
                   target="_blank"
                   rel="noreferrer"
                   aria-label="spotify"
                 >
                   <FaSpotify className="sm:text-lg" />
-                </a>
-              </li>
-              <li>
-                <a href={siteMetadata.steam} target="_blank" rel="noreferrer" aria-label="steam">
-                  <FaSteam className="sm:text-lg" />
                 </a>
               </li>
             </ul>
