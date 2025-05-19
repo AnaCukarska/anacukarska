@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on pedestrian dynamics modeling with machine learning
 - 🌱 I’m always learning something new
    - at the moment:
-      - Dynamical Systems [course][https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950798440?$scrollTo=toc_overview]
+      - Dynamical Systems [course](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950798440?$scrollTo=toc_overview)
 - 🗨️ I’m interested in scientific machine learning topics in general
 - 📫 How to reach me: ana.cukarska@tum.de
 - 😄 Pronouns: she/her
